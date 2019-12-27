@@ -1,0 +1,50 @@
+*{
+    background-color: rgba(251, 231, 174, 0.479);
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body .title  {
+    display: flex;
+    justify-items: center;
+    align-content: center;
+    padding: 30px;
+    color: rgb(20, 20, 167);
+}
+
+body .instructions{
+    color: rebeccapurple;
+    padding: 30px;
+}
+span {
+    background-color: orange;
+}
+body .price {
+    width: 110px;
+    height: 40px;
+    background-color: #20b4da;
+    margin: 50px;
+}
+body h1 .line {
+    margin-left: 5px;
+    padding-right: 5px;
+}
+form .distance .numDays .price .dayToStay {
+    padding-top: 40px;;
+}
+.inputs{
+    margin: 4px;
+}
+main .form .inputs{
+    background-color: rgb(255, 255, 255);
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 40px;
+    padding-top: 20px;
+}
+main .note {
+    color: rgb(47, 47, 47);
+    padding: 30px;
+}
